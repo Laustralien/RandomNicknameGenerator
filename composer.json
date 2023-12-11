@@ -1,0 +1,7 @@
+{
+  "name": "ccmbenchmark/random-nick-generator",
+  "description": "Generate nickname from files",
+  "require": {
+    "php": ">=7.0"
+  }
+}
